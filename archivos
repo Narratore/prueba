@@ -1,0 +1,23 @@
+   14  git config --global --replace-all core.pager "less -F -X"
+   83  git config
+ 2821  rm role-template/templates/ssh-config-jenkins-git-jenkins.j2
+ 2952  git rm ansible/roles/jenkins-service/files/var/lib/jenkins/jobs/Audit-Central/jobs/05-deploy-splunkforwarder-central/config.xml
+ 2954  git rm ansible/roles/jenkins-service/files/var/lib/jenkins/jobs/Audit-DB/jobs/05-deploy-splunkforwarder-db/config.xml
+ 3015  git reset HEAD _config.yml
+ 3353  git rm ansible/roles/jenkins-service/files/var/lib/jenkins/jobs/Cmdb/theme-itop/config.xml
+ 3606  cat qqw-doks/.git/config
+ 3635  cat .git/config
+ 3751  cat ~/VCS/Kronops/k-maji-orquesta/.git/config
+ 3804  git checkout ansible/roles/jenkins-service/files/var/lib/jenkins/jobs/Hardening/jobs/it-deploy_hardening/config.xml
+ 3817  git config --global core.editor vim
+ 3818  git config --list
+ 4628  git rm jobs/deploy-general-services/config.xml
+ 4629  git rm jobs/test_general_services/config.xml
+ 4669  git checkout 06-deploy-firewalld-hardening/config.xml
+ 5360  git diff tasks/task_moodle_db_config.yml
+ 5626  vim .git/config
+ 9320  git clone ssh://luis.carrillo@resuelve.mx@source.developers.google.com:2022/p/resonant-hawk-169822/r/resuelve-cloud-configs
+ 9999  curl -o ~/.config/kitty/ https://raw.githubusercontent.com/challenger-deep-theme/kitty/master/challenger-deep.conf
+10042  git config --list
+10044  history | grep "git" | grep "config"
+10060* vim .git/config
