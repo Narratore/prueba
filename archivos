@@ -21,3 +21,4 @@
 10042  git config --list
 10044  history | grep "git" | grep "config"
 10060* vim .git/config
+# limpiar estos comandos
